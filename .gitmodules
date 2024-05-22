@@ -1,0 +1,3 @@
+[submodule "testpublic/test"]
+	path = testpublic/test
+	url = https://github.com/guillaumebihet/testpublic.git
